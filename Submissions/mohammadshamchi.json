@@ -1,0 +1,16 @@
+{
+    "name": "Mohammad Shamchi Rezaeiyeh",
+    "img": "https://media.licdn.com/dms/image/D4D35AQElBZOV3Y7J9Q/profile-framedphoto-shrink_400_400/0/1697013153289?e=1701622800&v=beta&t=e4j-UjhGHReatGSJmnNUt5Sp0nXl34bSEnAmoKONdxM]",
+    "email": "shamchimohammad@gmail.com",
+    "links": {
+        "website": "https://mohammadshamchi.com/",
+        "linkedin": "https://www.linkedin.com/in/mohammadshamchi",
+        "github": "https://github.com/Mohammadshamchi"
+    },
+    "jobTitle": "Fullstack Developer",
+    "location": {
+        "city": "Istanbul",
+        "state": "Istanbul",
+        "country": "Turkey"
+    }
+}
